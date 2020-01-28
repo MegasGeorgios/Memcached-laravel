@@ -75,9 +75,4 @@ class ProductoController extends Controller
            return response()->json(['mensaje'=>'Datos invalidos o incompletos', 'status'=>'error'],422);
        }
     }
-
-    public function destroy(Producto $producto)
-    {
-        //
-    }
 }

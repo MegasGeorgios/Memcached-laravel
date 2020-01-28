@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Aedgency</title>
+    <title>Dashboard</title>
 
     <!-- Styles -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
@@ -19,7 +19,7 @@
 <body>
     <div id="app">
       <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #263238;">
-            <a class="navbar-brand" href="{{ url('/') }}" style="font-size:18px; color:white;"><i class="	fa fa-institution" style="font-size:20px;color:white"></i> Aedgency</a>
+            <a class="navbar-brand" href="{{ url('/') }}" style="font-size:18px; color:white;"><i class="	fa fa-institution" style="font-size:20px;color:white"></i> Dashboard</a>
               
 
 

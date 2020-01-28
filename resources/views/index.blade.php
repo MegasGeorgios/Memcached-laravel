@@ -3,7 +3,7 @@
 <section class="section-table cid-qEWnn6EOZs" id="table1-a" data-rv-view="762">
 
   <div class="container container-table">
-      <h2 class="mbr-section-title mbr-fonts-style align-center pb-3 display-2">Pedidos</h2>
+      <h2 class="mbr-section-title mbr-fonts-style align-center pb-3 display-2">Pedidos en caché</h2>
 
       <div class="table-wrapper" id="vue">
 

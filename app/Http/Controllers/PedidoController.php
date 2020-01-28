@@ -66,12 +66,12 @@ class PedidoController extends Controller
   }
 
   public function show($id)
-    {
-      $query= new Pedido;
-      $pedido = $query->inf_pedido($id);
+  {
+    $query= new Pedido;
+    $pedido = $query->inf_pedido($id);
 
-        return response()->json(['datos'=>$pedido,'status'=>'ok'],202);
-    }
+      return response()->json(['datos'=>$pedido,'status'=>'ok'],202);
+  }
 
 
 }

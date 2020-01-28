@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v4.3.0, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Aedgency</title>
+  <title>Dashboard</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -34,7 +34,7 @@
               <div class="menu-logo">
                   <div class="navbar-brand">
 
-                      <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="{{url('/')}}">Aedgency</a></span>
+                      <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="{{url('/')}}">Dashboard</a></span>
                   </div>
               </div>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
